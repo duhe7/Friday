@@ -1,0 +1,34 @@
+such + youtube + video titel (youtube suche), + google + thema (google suche), +rafisa start (rafisa wiki start seite),
++ doku (tages jurnal), +wekan (wekan öffnen), +rafisa login (rafisa einstempfel seite), + musik (youtube playlist mit 
+von mir ausgesuchten songs), +maki (frage nach dem befinden und spiel ensprechende musik), + girl in red (spielt bad idea von girl in red ab),
++gay (playlist video auf youtube lgbtq+ musik), + spiele (öffnet steam), + news (öffnet cnn start seite)
+
+programiern + hello world (erstellt eine .cpp datei mit c++ code für hello world)
+
+mail + inhalt (sendet eine mail an mich), + lesen (liest die letzte mail aus m.ivens@rafisa.ch vor)
+
+kaffe
+
+reden (nach befinden fragen)
+
+musik +song +lied aus musik liste (spielt ein bestimmtes lied), +zuffällig (spielt ein zufälliges lied)
+
+aus (beendet das program)
+
+nach alter fragen
+
+begrüssen
+
+verabschieden
+
+nach ziggarten fragen
+
+fragen wer sie ist
+
+befehle abrufen
+
+support anfragen
+
+fragen wie toll friday ist
+
+

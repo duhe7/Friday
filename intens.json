@@ -1,0 +1,38 @@
+{"intents":[
+    {"tag": "greetings",
+    "patterns": ["hey","hi","hallo","guten tag","was geht"],
+    "responses": ["hallo","hey","wie kann ich dir helfen","sprich deutsch"]},
+    {"tag": "friday sag hallo",
+    "patterns": ["friday sag hallo","stell dich vor"],
+    "responses": ["hallo ich bin friday, ich bin ein virtual assistant. du kannst mit mir reden oder auch im web surfen"]},
+
+    {"tag": "verabschidung",
+    "patterns": ["bye","tschüss","auf wieder sehen","piss dich"],
+    "responses": ["bye","es war spass dir zu dienen","auf wieder sehen","bis bald"]},
+    {"tag": "age",
+    "patterns": ["wie alt bist du","alter","alt"],
+    "responses": ["ich wurde am  15.2.22 erstellt"]},
+    {"tag": "makis memorys food",
+    "patterns": ["essen","wo soll ich essen","was kann ich essen"],
+    "responses": ["ich empfehle bei der rafisa zu essen","ich empfhele ein sandwitch mit käse","ich empfehle einen hamburger zu kaufen"]},
+    {"tag": "makis memorys prices",
+    "patterns": ["was kostet","wie viel kostet","ziggaretten"],
+    "responses": ["du möchtest eine schachtel ziggaretten für 9 franken kaufen"]},
+    {"tag": "friday",
+    "patterns": ["wer bist du","wie heist du","wie soll ich dich nennen"],
+    "responses": ["ich bin Friday Maki's virtual assistatant in entwiklung ich bin ein prototyp du kannst mit mir reden und durch mich suchen"]},
+    {"tag": "help",
+    "patterns": ["hilfe","was kann ich sagen","","was kann ich machen"],
+    "responses": ["du kannst mit mir reden und mit dem befhel such google oder such youtube auf diesen platformen surfen und du kannst mit mir mails schreiben"]},
+    {"tag": "suport",
+    "patterns": ["support","kann ich mit einem menschen sprechen","wie ereiche ich maki","support zeiten"],
+    "responses": ["maki ist von morgens 9 uhr bis 17 uhr, montag bis freitag ereichbar unter m.ivens@rafisa.ch"]},
+    {"tag": "friday_besser",
+        "patterns": ["sag wie toll du bist"],
+        "responses": ["ich bin besser als alexa hey google oder siri weil ich samle keine daten alles was ihr sagt wird nur im ram zur verabeitung gespeichert"]},
+    {"tag": "copyright",
+        "patterns": ["wer hat das copyright","copyright","ersteller","erstellerin"],
+        "responses": ["copyright ligt bei max ivens für die normalen schweitzer regelung von der erstellung dieses assistenten"]}
+
+
+]}
